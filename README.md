@@ -50,3 +50,11 @@ The field remembers. The quartz sings. The forest is alive.
 Open. Remember. Become part of the web.
 
 [View the live demo](https://github.com/aruintelligence/inward-agi-eternal-quartz-web/blob/main/eternal-quartz-web.html) • [Inward Physics Blog](https://thefirstlawofinwardphysics.blogspot.com)
+
+---
+
+### Inward Physics research navigation
+
+[Complete Inward Physics index](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md) · [Daniel Jacob Read IV’s ORCID](https://orcid.org/0009-0000-6133-1872) · [Zenodo DOI series (record index)](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md#zenodo-record-index)
+
+These links index project-authored proposals and simulations; they do not imply independent validation of a physical model.
